@@ -40,7 +40,7 @@ Hi there, I'm Alwaysaqioo! 👋<br><br>A passionate software developer who loves
 
 ---
 
-## 🕹️ Ultra Rare: Contribution Snake Game (Orang Lain Jarang Punya!)
+## 🕹️ Ultra Rare: Contribution Snake Game
 <p align="left">
   <img src="https://raw.githubusercontent.com/Alwaysaqioo/Alwaysaqioo/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
