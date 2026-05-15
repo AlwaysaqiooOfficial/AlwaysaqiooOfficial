@@ -12,14 +12,14 @@ Hi there, I'm Alwaysaqioo! 👋<br><br>A passionate software developer who loves
 
 ---
 
-## ☕ Support My Journey (Scan QRIS)
+## ☕ Support My Journey
 <p align="left">
   <img src="https://static.topindoku.co.id/images/qris/nobu/ID2023271632994_A01.png" width="350" style="border-radius: 20px; border: 5px solid #61dafb; box-shadow: 0px 10px 30px rgba(97, 218, 251, 0.4);" alt="QRIS Alwaysaqioo"/>
 </p>
 
 ---
 
-## 🏆 THE ULTIMATE ELITE TROPHIES (World Class Ranking)
+## 🏆 Elite Trophies
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AlwaysaqiooOfficial&theme=radical&column=8&margin-w=20&margin-h=20&no-bg=false&no-frame=false" alt="Alwaysaqioo Trophies" />
   <img src="https://github-profile-trophy.vercel.app/?username=AlwaysaqiooOfficial&theme=radical&column=8&margin-w=20&margin-h=20&no-bg=false&no-frame=false&rank=SSS,SS,S,AAA,AA,A" alt="Alwaysaqioo Trophies Extra" />
@@ -34,7 +34,7 @@ Hi there, I'm Alwaysaqioo! 👋<br><br>A passionate software developer who loves
 
 ---
 
-## 📊 Analytics & Master Performance
+## 📊 Analytics
 <p align="left">
   <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlwaysaqiooOfficial&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github" />
   <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlwaysaqiooOfficial&theme=radical" />
@@ -42,7 +42,7 @@ Hi there, I'm Alwaysaqioo! 👋<br><br>A passionate software developer who loves
 
 ---
 
-## 💻 GOD MODE TECH STACK (FULL UNLOCKED)
+## 💻 tech Stacs
 <p align="left">
   <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white" />
   <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
@@ -105,15 +105,6 @@ Hi there, I'm Alwaysaqioo! 👋<br><br>A passionate software developer who loves
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-</p>
-
----
-
-## 🎵 Real-time Live Music Visualizer (Spotify Animated)
-<p align="left">
-  <a href="https://open.spotify.com/user/31s2x4iyk2j7jhau7qtuisl572pm" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s2x4iyk2j7jhau7qtuisl572pm&cover_image=true&theme=radical&show_offline=true&interact=true&bar_color=61dafb&bar_color_cover=true" width="100%" />
-  </a>
 </p>
 
 ---
