@@ -17,25 +17,21 @@ Hi there, I'm Alwaysaqioo! 👋<br><br>A passionate software developer who loves
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AlwaysaqiooOfficial&theme=radical&column=7&margin-w=15&margin-h=15&v=2" alt="Alwaysaqioo GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=AlwaysaqiooOfficial&theme=radical&column=7&margin-w=15&margin-h=15" alt="Alwaysaqioo GitHub Trophies" />
 </p>
 
 ---
 
 ## ✍️ Random Dev Quote
 <p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=2" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
 
 ## 🔝 Top Contributed Repo
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysaqiooOfficial&layout=compact&theme=radical&hide_border=false&v=2" alt="Top Languages Contributed" />
-  </a>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlwaysaqiooOfficial&layout=compact&theme=radical&hide_border=false" alt="Top Languages Contributed" />
 </p>
 
 ---
@@ -49,8 +45,8 @@ Hi there, I'm Alwaysaqioo! 👋<br><br>A passionate software developer who loves
 
 ## 📊 GitHub Advanced Analytics & 3D Skyline
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlwaysaqiooOfficial&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=2" alt="Alwaysaqioo GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlwaysaqiooOfficial&theme=radical&v=2" alt="Alwaysaqioo Streak Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlwaysaqiooOfficial&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Alwaysaqioo GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlwaysaqiooOfficial&theme=radical" alt="Alwaysaqioo Streak Stats" />
 </p>
 
 ---
@@ -58,7 +54,7 @@ Hi there, I'm Alwaysaqioo! 👋<br><br>A passionate software developer who loves
 ## 🎵 Currently Playing On Spotify (Premium Feature)
 <p align="left">
   <a href="https://github.com/novatorem/novatorem">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=alwaysaqioo&cover_image=true&theme=radical&v=2" alt="Spotify Player" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=alwaysaqioo&cover_image=true&theme=radical" alt="Spotify Player" />
   </a>
 </p>
 
